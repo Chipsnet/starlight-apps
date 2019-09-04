@@ -2,3 +2,5 @@
 今後は、新システムを構築し、新たなサーバーでアプリケーションを提供する予定です。
 
 なお、StarLightは[こちら](https://dev.m86.work/)です
+
+Copyright 2019 [Minato86](https://minato86.me/)
