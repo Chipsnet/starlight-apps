@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule  index.html$ https://dev.m86.work/ [R=301,L]
